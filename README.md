@@ -16,3 +16,5 @@ As operações implementadas incluem:
   Remoção (RemoveAt): Deslocamento de índices da esquerda para a direita para preencher "buracos" deixados por itens removidos, otimizando a estrutura.
   Redimensionamento Dinâmico: Monitoramento da capacidade limite. Quando o inventário atinge `maxCapacity`, o algoritmo cria um novo bloco de memória com o dobro do tamanho (`maxCapacity * 2`), copia os itens antigos e substitui a referência na memória.
   Game Loop (Interface): Um laço `while` infinito com tratamento de exceções (`try/except`) para interagir com o usuário via terminal.
+
+Link post Linkedin testando a aplicação: https://lnkd.in/p/e5ue84S4
